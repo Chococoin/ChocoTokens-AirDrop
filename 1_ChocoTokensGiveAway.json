@@ -1,0 +1,10 @@
+/*ChocoTokens granted by airdrop.*/
+
+{ "campaing": "Rain of ChocoTokens in Bitcointalk.org",
+  "amount": "100000",
+  "beneficiary": [
+      {"name": "Targetbit", "address": "0x774C818419Ce7250211b599e7dc27962657d50fA", "ChocoTokens": 150},
+      {"name": "Bitbar", "address": "", "ChocoTokens": 150},
+
+  ]
+}
