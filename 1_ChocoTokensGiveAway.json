@@ -4,7 +4,7 @@
   "amount": "100000",
   "beneficiary": [
       {"name": "Targetbit", "address": "0x774C818419Ce7250211b599e7dc27962657d50fA", "ChocoTokens": 150},
-      {"name": "Bitbar", "address": "", "ChocoTokens": 150},
+      {"name": "Bitbar", "address": "0xC6FcB66d36ABb15A9744603eAea2B4dd65151a8b", "ChocoTokens": 150},
 
   ]
 }
